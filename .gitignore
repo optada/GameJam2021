@@ -2,11 +2,24 @@ Saved
 Build
 Intermediate
 Binaries
+<<<<<<< HEAD
 .vs
 *.db
 *.opendb
 cmake-build-debug
 CMakeLists.txt
+=======
+FleaMadness.xcworkspace
+.vs
+*.db
+*.opendb
+FleaMadness.sln
+cmake-build-debug
+CMakeLists.txt
+FleaMadness.workspace
+FleaMadnessCodeCompletionFolders.txt
+FleaMadnessCodeLitePreProcessor.txt
+>>>>>>> main
 .idea
 Packaged
 *_BuiltData.uasset
